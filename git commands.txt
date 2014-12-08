@@ -14,3 +14,8 @@ touch new.md
 11. to get repository from local machine to github on master branch type following:
 git push origin master
 type username and password
+ 
+refer to following website for more details:
+http://datasciencespecialization.github.io/toolbox/
+
+However, I have not included the syncing aspect of forking that includes fetching and merging
