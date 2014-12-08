@@ -33,10 +33,12 @@ Following is the way to create a repo on local machine first and then pushing th
 2)cd ~/test-repo
 3)git init to initialize the local git repo
 4)git remote add origin <url of repo on github>
+5)git push origin master. it will not work
 this will give an error because the local repo doesn't contain the readme.md file that was created on github repo
 To counter this type on gitbash
-5) git pull origin master
-6) now try again typing git push origin master. This time it will work
+6) git pull origin master
+7)type again git push origin master
+
 
 
 refer to following website for more details:
