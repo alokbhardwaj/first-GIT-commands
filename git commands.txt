@@ -39,7 +39,14 @@ To counter this type on gitbash
 6) git pull origin master
 7)type again git push origin master
 
-
+description of important commands
+1. git add .	adds all new files
+2. git add -u	updates tracking for files that changed names or were deleted
+3. git add -A	does both of the previous 
+4. git branch	checks what branch I am on
+5. git checkout -b branchname	creates a new branch
+6. git checkout master	switches back to the master branch type
+	
 
 refer to following website for more details:
 http://datasciencespecialization.github.io/toolbox/
