@@ -1,0 +1,16 @@
+1. make a new repository on git hub using the 'new repository' option displayed on clicking your name on the github website
+2.make the repository public, give some message and include the readme.md
+3.to copy this repository on the local machine; open gitbash and type  git clone <url of the repository>
+the url is obtained from the page of the repository on github bottom right. copy the url on billboard and press 'insert' while you are on gitbash
+4. you will see a new directory by the name of the repository
+go into that directory: cd <directory name>
+5.To create a new markdown file, we can use the following:
+touch new.md
+6.type git status to check the status of the file
+7. its time to stage by typing: git add .
+8. its time to commit by typing: git commit -m "this is a first git commands"
+9. git status
+10.git log
+11. to get repository from local machine to github on master branch type following:
+git push origin master
+type username and password
